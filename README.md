@@ -1,5 +1,5 @@
 # LiveDropEditor
-Edit drop items and drop rates while the server is running.
+Edit drop items and drop rates directly on the ps_game memory while the server is running.
 
 # Good To Know
 - Automatically applies changes to database
